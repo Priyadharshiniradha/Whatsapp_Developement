@@ -2,5 +2,5 @@ This is whatsap code
 author priya
 Profile page code
 chat screen code
-last seen code
+Hiding last seen code
 attachments
