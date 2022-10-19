@@ -4,3 +4,4 @@ Profile page code
 chat screen code
 Hiding last seen code
 attachments
+added video audio features
